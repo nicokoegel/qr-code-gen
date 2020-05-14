@@ -2,7 +2,7 @@
   "name": "qr-code-gen",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nicokoegel.github.io/qr-code-gen"
+  "homepage": "http://nicokoegel.github.io/qr-code-gen",
   "dependencies": {
     "@material-ui/core": "^4.9.14",
     "@testing-library/jest-dom": "^4.2.4",
