@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qr-code-gen/static/css/main.d3c3a7eb.chunk.css",
+    "main.js": "/qr-code-gen/static/js/main.d70a4de8.chunk.js",
+    "main.js.map": "/qr-code-gen/static/js/main.d70a4de8.chunk.js.map",
+    "runtime-main.js": "/qr-code-gen/static/js/runtime-main.debc4dcc.js",
+    "runtime-main.js.map": "/qr-code-gen/static/js/runtime-main.debc4dcc.js.map",
+    "static/js/2.789e08b9.chunk.js": "/qr-code-gen/static/js/2.789e08b9.chunk.js",
+    "static/js/2.789e08b9.chunk.js.map": "/qr-code-gen/static/js/2.789e08b9.chunk.js.map",
+    "index.html": "/qr-code-gen/index.html",
+    "precache-manifest.723076f3fe1a4521fbaf0a185295a1ac.js": "/qr-code-gen/precache-manifest.723076f3fe1a4521fbaf0a185295a1ac.js",
+    "service-worker.js": "/qr-code-gen/service-worker.js",
+    "static/css/main.d3c3a7eb.chunk.css.map": "/qr-code-gen/static/css/main.d3c3a7eb.chunk.css.map",
+    "static/js/2.789e08b9.chunk.js.LICENSE.txt": "/qr-code-gen/static/js/2.789e08b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.debc4dcc.js",
+    "static/js/2.789e08b9.chunk.js",
+    "static/css/main.d3c3a7eb.chunk.css",
+    "static/js/main.d70a4de8.chunk.js"
+  ]
+}
