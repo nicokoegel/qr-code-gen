@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   return (
     <div>
+      <h1 className="center"> QR-Code Generator</h1>
       <QrCodeGen />
     </div>
   );
