@@ -1,0 +1,15 @@
+
+input, canvas, a {
+    display: block
+}
+input, canvas {
+    margin-left: auto;
+    margin-right: auto;
+}
+input {
+    margin-top: 10%;
+    margin-bottom: 2%;
+}
+a {
+    text-align: center;
+}
