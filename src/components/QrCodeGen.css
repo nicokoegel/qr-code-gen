@@ -6,10 +6,11 @@ input, canvas {
     margin-left: auto;
     margin-right: auto;
 }
-input {
-    margin-top: 10%;
-    margin-bottom: 2%;
+.box{
+    margin-top: 5%;
+    margin-bottom: 2%;    
 }
 a {
+    margin-top: 2%;
     text-align: center;
 }
