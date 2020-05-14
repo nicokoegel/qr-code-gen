@@ -1,5 +1,7 @@
 .center {
-    box-sizing: border-box;
-    margin-top: 4%;
+    padding-top: 4%;
     text-align: center;
+}
+h1 {
+    margin: 0;
 }
